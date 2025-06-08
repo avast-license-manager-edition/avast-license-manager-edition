@@ -1,0 +1,1 @@
+# avast-license-manager-edition
